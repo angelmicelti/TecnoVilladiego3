@@ -6,6 +6,6 @@ Repositorio de programas de Tecnología del alumnado de 3º de E.S.O. del I.E.S.
 
 LENGUAJES QUE TRABAJAREMOS
 
-[Arduinoblocks](www.arduinoblocks.com "")
+[Arduinoblocks](http://www.arduinoblocks.com/)
 
-Scratch
+[Scratch](http://scratch.mit.edu)
