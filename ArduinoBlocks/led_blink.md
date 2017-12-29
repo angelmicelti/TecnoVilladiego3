@@ -4,8 +4,7 @@ Llamamos a este sencillo montaje BLINK u "Hola Mundo", porque es el primer progr
 
 ## [Montaje en Tinkercad](https://www.tinkercad.com/things/58pb1LnwuDn-1-blink-bloques)
 
-[![Haz clic para ir al vídeo](imágenes/Blink.png)](https://www.tinkercad.com/things/58pb1LnwuDn-1-blink-bloques "Ver el circuito en TinkerCAD")
-
+[![](imágenes/Blink.png)](https://www.tinkercad.com/things/58pb1LnwuDn-1-blink-bloques "Ver el circuito en TinkerCAD")
 
 ## Vídeo
 
