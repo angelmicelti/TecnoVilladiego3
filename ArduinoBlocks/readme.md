@@ -10,5 +10,5 @@ Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir in
 1. [Blink u "hola mundo"](led_blink.md)
 2. [Ledes alternativos](ledes_alternativos.md)
 3. [El Coche Fantástico](kitt.md)
-4. [Semáforo para vehículos](semáforo_v.md)
-5. [Semáforo para peatones](semáforo_vp.md)
+4. [Semáforo para tráfico rodado](semáforo_v.md)
+5. [Semáforo para vehículos y peatones](semáforo_vp.md)

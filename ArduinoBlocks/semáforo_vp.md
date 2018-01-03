@@ -1,4 +1,4 @@
-# Semáforo para vehículos y peatones
+# Proyecto 5: Semáforo para vehículos y peatones
 
 Añadimos ahora dos luces para que pueda regularse, además del tráfico de vehículos, el paso de los peatones.
 Si te fijas bien, esto último no es sino lo que hicimos en el montaje número 2, correspondiente a los ledes alternativos. Eso sí, ahora hay que sincronizar con las tres luces del semáforo del ejemplo anterior.
