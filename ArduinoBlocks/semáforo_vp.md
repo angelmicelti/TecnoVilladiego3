@@ -15,7 +15,7 @@ Pretendemos que el ciclo completo del semáforo dure diez segundos, según lo qu
 - - -
 ## [Montaje en Tinkercad](https://www.tinkercad.com/things/caUI7bkzz7e)
 
-[![](imágenes/semáforo_vp.png)](https://www.tinkercad.com/things/caUI7bkzz7e "Ver el circuito en TinkerCAD")
+[ ![](imágenes/semáforo_vp.png)](https://www.tinkercad.com/things/caUI7bkzz7e "Ver el circuito en TinkerCAD")
 
 
 ## Código en TinkerCAD
