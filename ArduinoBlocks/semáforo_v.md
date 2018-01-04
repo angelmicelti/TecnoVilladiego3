@@ -16,11 +16,6 @@ La duración de un ciclo completo será, pues, de 10 segundos.
 
 [![](imágenes/semáforo_v.png)](https://www.tinkercad.com/things/f83grFjS9rd-4-semaforo-para-trafico-rodado-bloques "Ver el circuito en TinkerCAD")
 
-## Vídeo
-
-
-[![Haz clic para ir al vídeo](http://img.youtube.com/vi/JNdshfI1XXM/0.jpg)](http://www.youtube.com/watch?v=JNdshfI1XXM "Ledes alternativos")
-
 
 ## Código en TinkerCAD
 ![](imágenes/TinkerSemáforoV.png)

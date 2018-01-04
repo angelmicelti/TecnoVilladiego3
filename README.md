@@ -4,8 +4,12 @@ Repositorio de Tecnología del alumnado de 3º de E.S.O. del I.E.S. Virgen de Vi
 ![](imágenes/logo_fondo_transparente200x300.png)
 
 
-LENGUAJES QUE TRABAJAREMOS
+## PROGRAMACIÓN
 
 [Arduinoblocks](ArduinoBlocks/readme.md)
 
 [Scratch](http://scratch.mit.edu)
+
+## ELECTRICIDAD
+
+## MECÁNICA
