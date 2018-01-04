@@ -3,6 +3,7 @@
 Llega el momento de darle un poco de color a los ledes que utilizamos en nuestros montajes.
 Parece, entonces, lógico realizar un proyecto como un semáforo.
 En él ya tendremos que incluir tres luces (antes hemos hecho un proyecto con ocho, tranquil@s). Lo importante es que ahora tendrán que estar **sincronizadas**. Bueno, no es que antes no lo estuvieran, pero ahora quedarán con más estilo.
+
 ![](imágenes/semáforo.png)
 
 En nuestro semáforo, vamos a fijar los siguientes tiempos para cada una de las luces:
