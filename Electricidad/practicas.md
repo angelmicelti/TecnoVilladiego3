@@ -4,6 +4,15 @@ Proponemos a nuestro alumnado de 3º de E.S.O. la realización de unas sencillas
 
 Puedes descargar Crocodile Technology desde [este enlace](https://mega.nz/#!WB9DWJgY!42RwtjEhRjiRDeBIMDXtk3PYmDmsGy_arkmXCMFQyMk).
 
+Puedes ver/descargar las hojas de respuestas en estos enlaces:
+
+- [Hoja 1 (anverso)](h1a.pdf)
+- [Hoja 1 (reverso)](h1r.pdf)
+- [Hoja 2 (anverso)](h2a.pdf)
+- [Hoja 2 (reverso)](h2r.pdf)
+
+
+
 ## Práctica 1: circuito elemental. Elementos de maniobra
 
 [![](imágenes/p1.png)](p1.pdf "Haz clic para ver la práctica")
