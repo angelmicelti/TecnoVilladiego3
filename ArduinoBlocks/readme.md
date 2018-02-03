@@ -13,3 +13,5 @@ Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir in
 4. [Proyecto 4: Semáforo para tráfico rodado](semáforo_v.md)
 5. [Proyecto 5: Semáforo para vehículos y peatones](semáforo_vp.md)
 6. Proyecto 6:
+
+# Conoce la shield Arduino Trainer 1.0
