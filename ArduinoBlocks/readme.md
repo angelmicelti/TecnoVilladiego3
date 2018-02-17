@@ -14,4 +14,6 @@ Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir in
 5. [Proyecto 5: Semáforo para vehículos y peatones](semáforo_vp.md)
 6. Proyecto 6:
 
-# [Conoce la shield Arduino Trainer 1.0](arduinotrainer.md)
+# [Conoce el shield Arduino Trainer 1.0](/Trainer10/arduinotrainer.md)
+
+# [Conoce el shield Arduino Basic I/O](/BasicIO/basicio.md)

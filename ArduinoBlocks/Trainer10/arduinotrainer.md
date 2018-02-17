@@ -11,3 +11,6 @@
 - [LED PWM lineal](http://www.arduinoblocks.com/web/project/12273)
 
 - [LED PWM cuadrático](http://www.arduinoblocks.com/web/project/12279)
+
+
+### Ejercicios con Arduino Trainer V1.0
