@@ -1,5 +1,6 @@
 # Arduino Basic I/O V2.0
 
+### Programas para probar la placa
 
 [Basic I/O: test 1 - LED blink](http://www.arduinoblocks.com/web/project/6482)
 [Basic I/O: test 2 - secuencia de ledes](http://www.arduinoblocks.com/web/project/12374)
@@ -9,4 +10,4 @@
 [Basic I/O: test 6 - zumbador](http://www.arduinoblocks.com/web/project/12492)
 [Basic I/O: test 7 - potenciómetro](http://www.arduinoblocks.com/web/project/13067)
 
-### Ejercicios con Arduino Basic I/O V2
+### Ejercicios con Arduino Basic I/O

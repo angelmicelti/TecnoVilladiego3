@@ -1,5 +1,7 @@
 # Ejercicios con la shield [Arduino Trainer v1.0](http://www.hispalisrobiotics.com/#/producto/1) y [ArduinoBlocks](www.arduinoblocks.com)
 
+### Programas para probar la placa
+
 - [Test 1: ledes](http://www.arduinoblocks.com/web/project/10935)
 
 - [Test 2: pulsadores](http://www.arduinoblocks.com/web/project/10939)
