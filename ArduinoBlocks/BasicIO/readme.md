@@ -1,5 +1,5 @@
 # Arduino Basic I/O V2.0
-![](http://farm8.staticflickr.com/7225/7262265112_e3ca8ca8ed_o.jpg)
+![](https://mkelectronica.com/wp-content/uploads/BASIC_IO-600x491.jpg)
 
 ### Programas para probar la placa
 
