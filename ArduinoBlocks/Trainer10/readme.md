@@ -1,6 +1,6 @@
 # Ejercicios con la shield [ArduinoTrainer v1.0](http://www.hispalisrobiotics.com/#/producto/1) y [ArduinoBlocks](www.arduinoblocks.com)
 
-![](http://www.hispalisrobiotics.com/assets/img/foto_05.JPG)
+![](http://www.hispalisrobiotics.com/assets/img/foto_04.JPG)
 
 ### Programas para probar la placa
 
