@@ -16,3 +16,5 @@ Repositorio de Tecnología del alumnado de 3º de E.S.O. del I.E.S. Virgen de Vi
 ## MECÁNICA
 
 ## [DISEÑO 3D CON SKETCHUP](Sketchup/readme.md)
+
+Editado con FastHub
