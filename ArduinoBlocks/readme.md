@@ -4,9 +4,13 @@
 
 [**ArduinoBlocks**](http://www.arduinoblocks.com) es una potente herramienta que permite al alumnado iniciarse fácilmente en la programación de Arduino a través de un entorno de programación muy intuitivo.
 
-Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir introduciendo en el mundillo de ArduinoBlocks y de Arduino.
+### [Cómo documentar un proyecto de ArduinoBlocks](http://www.arduinoblocks.com/blog/2017/09/27/documentacion-de-un-proyecto/)
+
 
 ## Programas
+
+Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir introduciendo en el mundillo de ArduinoBlocks y de Arduino.
+
 1. [Proyecto 1: Blink u "hola mundo"](led_blink.md)
 2. [Proyecto 2: Ledes alternativos](ledes_alternativos.md)
 3. [Proyecto 3: El Coche Fantástico](kitt.md)
