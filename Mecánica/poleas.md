@@ -1,7 +1,7 @@
 # **TRANSMISIÓN DEL MOVIMIENTO MEDIANTE POLEAS**
 
 ### Relación de Transmisión
-![Relación de transmisión por poleas](Mecánica/img/RTpoleas.png)
+![Relación de transmisión por poleas](img/RTpoleas.png)
 
 ### Ley fundamental de la transmisión por poleas
 
