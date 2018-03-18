@@ -9,12 +9,14 @@
 
 ## TRANSMISIÓN DEL MOVIMIENTO
 - [Transmisión por poleas](poleas.md)
-- Transmisión por ruedas de fricción
+- [Transmisión por ruedas de fricción](ruedasf.md)
 - [Transmisión por engranajes](engranajes.md)
-- Transmisión por piñón-cadena
+- [Transmisión por piñón-cadena](pinoncad.md)
 
-
+![](img/FichaTransmisiones.png)
 ## TRANSFORMACIÓN DEL MOVIMIENTO
 
-- Piñón-cremallera
--
+- [Piñón-cremallera](pinoncrema.md)
+- Husillo
+- [Biela-manivela](bielamanivela.md)
+- Cigüeñal
