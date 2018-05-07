@@ -6,6 +6,8 @@
 
 ---
 
+## [ArduinoBlocks connector](http://www.arduinoblocks.com/blog/2017/02/14/arduinoblocks-connector/)
+
 ## [Cómo conectar remotamente ArduinoBlocks al ordenador del profesor](abconnector.md)
 
 ***
@@ -51,7 +53,6 @@ Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir in
 
 ## [Cómo documentar un proyecto de ArduinoBlocks](http://www.arduinoblocks.com/blog/2017/09/27/documentacion-de-un-proyecto/)
 
-## [ArduinoBlocks connector](http://www.arduinoblocks.com/blog/2017/02/14/arduinoblocks-connector/)
 
 
 ## [Bloques de control](http://www.arduinoblocks.com/blog/2017/05/29/bloques-de-control/)
