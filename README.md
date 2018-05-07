@@ -6,12 +6,12 @@ Repositorio de Tecnología del alumnado de 3º de E.S.O. del I.E.S. Virgen de Vi
 
 ## PROGRAMACIÓN
 
-### [Arduinoblocks](ArduinoBlocks/readme.md)
+  ### [Arduinoblocks](ArduinoBlocks/readme.md)
 
-### [Scratch](http://scratch.mit.edu)
+  ### [Scratch](http://scratch.mit.edu)
 
 ## ELECTRICIDAD
-### [Prácticas de electricidad con Crocodile Technology](Electricidad/practicas.md)
+   ### [Prácticas de electricidad con Crocodile Technology](Electricidad/practicas.md)
 
 ## [MECÁNICA](Mecánica/readme.md)
 
