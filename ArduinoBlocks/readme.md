@@ -25,9 +25,9 @@ Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir in
 
 ---
 
-# [Conoce el shield Arduino Trainer 1.0](Trainer10/readme.md)
+## [Conoce el shield Arduino Trainer 1.0](Trainer10/readme.md)
 
-# [Conoce el shield Arduino Basic I/O](BasicIO/readme.md)
+## [Conoce el shield Arduino Basic I/O](BasicIO/readme.md)
 
 ---
 
