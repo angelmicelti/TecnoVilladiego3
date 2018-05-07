@@ -18,6 +18,11 @@ Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir in
 
 [Videotutoriales de ArduinoBlocks](http://www.arduinoblocks.com/blog/2017/01/16/videotutoriales-de-arduinoblocks/)
 
+
+---
+
+## **[EJERCICIOS DE EVALUACIÓN, PARA IR APROBANDO](ejercicios.md)**
+
 ---
 
 # [Conoce el shield Arduino Trainer 1.0](Trainer10/readme.md)
@@ -25,9 +30,6 @@ Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir in
 # [Conoce el shield Arduino Basic I/O](BasicIO/readme.md)
 
 ---
-
-## **[EJERCICIOS DE EVALUACIÓN, PARA IR APROBANDO](ejercicios.md)**
-
 
 ### PROYECTOS DOCUMENTADOS EN LA WEB DE ARDUINOBLOCKS
 - [Dado electrónico](http://www.arduinoblocks.com/blog/2017/12/01/dado-electronico/)
