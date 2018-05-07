@@ -36,7 +36,7 @@ Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir in
 
 ---
 
-### PROYECTOS DOCUMENTADOS EN LA WEB DE ARDUINOBLOCKS
+## PROYECTOS DOCUMENTADOS EN LA WEB DE ARDUINOBLOCKS
 - [Dado electrónico](http://www.arduinoblocks.com/blog/2017/12/01/dado-electronico/)
 - [Control por Voz](http://www.arduinoblocks.com/blog/2017/11/01/control-por-voz/)
 - [Robot evitaobstáculos 2WD](http://www.arduinoblocks.com/blog/2017/10/18/robot-evita-obstaculos-2wd/)
@@ -49,14 +49,14 @@ Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir in
 
 ---
 
-### [Cómo documentar un proyecto de ArduinoBlocks](http://www.arduinoblocks.com/blog/2017/09/27/documentacion-de-un-proyecto/)
+## [Cómo documentar un proyecto de ArduinoBlocks](http://www.arduinoblocks.com/blog/2017/09/27/documentacion-de-un-proyecto/)
 
-### [ArduinoBlocks connector](http://www.arduinoblocks.com/blog/2017/02/14/arduinoblocks-connector/)
-
-
-### [Bloques de control](http://www.arduinoblocks.com/blog/2017/05/29/bloques-de-control/)
+## [ArduinoBlocks connector](http://www.arduinoblocks.com/blog/2017/02/14/arduinoblocks-connector/)
 
 
-### [Variables numéricas, de texto y booleanas](http://www.arduinoblocks.com/blog/2016/12/02/variables/)
+## [Bloques de control](http://www.arduinoblocks.com/blog/2017/05/29/bloques-de-control/)
+
+
+## [Variables numéricas, de texto y booleanas](http://www.arduinoblocks.com/blog/2016/12/02/variables/)
 
 ***
