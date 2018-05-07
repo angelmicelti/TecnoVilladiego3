@@ -55,3 +55,5 @@ Vamos a ir realizando una serie de ejemplos que, progresivamente, te van a ir in
 ### [Variables numéricas, de texto y booleanas](http://www.arduinoblocks.com/blog/2016/12/02/variables/)
 
 ***
+
+## [Cómo conectar remotamente ArduinoBlocks al ordenador del profesor](abconnector.md)
