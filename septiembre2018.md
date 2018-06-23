@@ -36,7 +36,7 @@ Descarga los boletines en PDF:
 ## [DISEÑO CON QCAD](QCAD/qcad.md)
 Dibuja las piezas que aparecen en [este enlace](QCAD/qcad.md).
 La pieza debe aparecer en **una capa** y la información **en otro capa diferente**.
-Una vez dibujadas las piezas, súbelas a una carpeta que se llame "QCAD", y compártela con tu profesor.
+Una vez dibujadas las piezas, súbelas a una carpeta que se llame "**QCAD_nombre**", y compártela con tu profesor.
 
 
 ## [Publicando información en Internet](Internet/internet.md)
@@ -44,4 +44,12 @@ Una vez dibujadas las piezas, súbelas a una carpeta que se llame "QCAD", y comp
 
 ## PROGRAMACIÓN
 
-  * ### [Arduinoblocks](ArduinoBlocks/readme.md)
+  Realiza los siguientes programas con [ArduinoBlocks](www.arduinoblocks.com) y simúlalos en [TinkerCAD](www.tinkercad.com):
+  - Led blink.
+  - Latido de corazón con un LED.
+  - Ledes alternativos.
+  - Movimiento alternativo de un servo con un botón.
+  - Parking con dos ledes.
+  - Botón + LED + servo.
+
+Comparte tus trabajos con el profesor. No olvides hacer públicos los montajes de TinkerCAD (si no sabes, mira [este vídeo](https://www.youtube.com/watch?v=47XXiyLPOPc)).
