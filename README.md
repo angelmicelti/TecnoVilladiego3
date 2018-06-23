@@ -30,3 +30,6 @@ Repositorio de Tecnología del alumnado de 3º de E.S.O. del I.E.S. Virgen de Vi
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4Mzk4MjA1MTFdfQ==
 -->
+
+
+[MATERIAL PARA RECUPERAR EL ÁMBITO PRÁCTICO (SEPTIEMBRE 2018)](septiembre2018.md)
