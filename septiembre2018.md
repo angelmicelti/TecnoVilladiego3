@@ -80,11 +80,12 @@ Una vez dibujadas las piezas, súbelas a una carpeta de Google Drive que se llam
 
 ## [Publicando información en Internet](Internet/internet.md)
 Realiza un póster con la herramienta [Canva](https://www.canva.com/)
+
 ---
 
 ## PROGRAMACIÓN
 
-  Realiza los siguientes programas con [ArduinoBlocks](www.arduinoblocks.com) y simúlalos en [TinkerCAD](www.tinkercad.com):
+  Realiza los siguientes programas con [ArduinoBlocks](http://www.arduinoblocks.com) y simúlalos en [TinkerCAD](http://www.tinkercad.com):
   - Led blink.
   - Latido de corazón con un LED.
   - Ledes alternativos.
