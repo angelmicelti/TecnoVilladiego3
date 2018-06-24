@@ -79,7 +79,7 @@ Una vez dibujadas las piezas, súbelas a una carpeta de Google Drive que se llam
 ---
 
 ## PUBLICANDO INFORMACIÓN EN INTERNET
-Realiza un póster sobre el **mundial de fútbol** con la herramienta [Canva](https://www.canva.com/)
+Realiza un póster sobre el **mundial de fútbol** con la herramienta [Canva](https://www.canva.com/) y compártelo con tu profesor.
 
 ---
 
