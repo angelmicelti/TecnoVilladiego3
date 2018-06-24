@@ -1,13 +1,13 @@
 # **MATERIAL PARA LA RECUPERACIÓN DEL ÁMBITO PRÁCTICO**
 ## CURSO 2017-2018
 
-Para recuperar la materia de Ámbito Práctico tendrás que realizar unos trabajos (50%) y superar una prueba escrita (50%) en el mes de septiembre.
+Para recuperar la materia de Ámbito Práctico tendrás que realizar satisfactoriamente unos trabajos (50% dde la nota) y superar una prueba escrita (50% de la nota) en el mes de septiembre.
 
 Tendrás que entregar tu cuaderno con los ejercicios que aquí se proponen resueltos, y **con los enunciados copiados**.
 
 Hay otros ejercicios que se hacen directamente en la web, y que deben ser entregados en Google Drive.
 
-Tienes una copia de todo esto en Google Classroom
+Tienes una copia de todo esto en Google Classroom. Ingresa en la clase utilizando el código: **hzoldv**
 
 ---
 
