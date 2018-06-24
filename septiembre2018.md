@@ -9,6 +9,8 @@ Hay otros ejercicios que se hacen directamente en la web, y que deben ser entreg
 
 Tienes una copia de todo esto en Google Classroom
 
+---
+
 ## ELECTRICIDAD
 Resuelve los siguientes boletines en tu cuaderno:
 
@@ -22,6 +24,7 @@ Haz las siguientes prácticas de electricidad en tu cuaderno
 
 - [Prácticas de electricidad con Crocodile Technology](Electricidad/practicas.md)
 
+---
 
 ## [MECÁNICA](Mecánica/readme.md)
 Resuelve los siguientes boletines en tu cuaderno:
@@ -35,6 +38,8 @@ Resuelve los siguientes boletines en tu cuaderno:
 Tienes las siguientes ayudas:
 - [Boletín 0 de palancas](Mecánica/boletin_palancas(0).pdf)
 - [Boletín 0 de transmisiones](Mecánica/boletin_transmisiones(0).pdf)
+
+---
 
 ## DISEÑO 3D CON SKETCHUP
 
@@ -62,18 +67,19 @@ Descarga los boletines con las imágenes en PDF:
 - [boletín 1](Sketchup/boletin1Eval1.pdf)
 - [boletín 2](Sketchup/boletin1Eval2.pdf)
 
+---
 
 ## [DISEÑO CON QCAD](QCAD/qcad.md)
 Dibuja las piezas que aparecen en [este enlace](QCAD/qcad.md).
 
 Cada pieza debe aparecer en **una capa** y la información del dibujo **en otro capa diferente**.
 
-Una vez dibujadas las piezas, súbelas a una carpeta que se llame "**QCAD_nombre**", y compártela con tu profesor.
+Una vez dibujadas las piezas, súbelas a una carpeta de Google Drive que se llame "**QCAD_nombre**", y compártela con tu profesor.
 
 ---
 
 ## [Publicando información en Internet](Internet/internet.md)
-Realiza un póster con la herramienta Canva
+Realiza un póster con la herramienta [Canva](https://www.canva.com/)
 ---
 
 ## PROGRAMACIÓN
@@ -87,7 +93,8 @@ Realiza un póster con la herramienta Canva
   - Botón + LED + servo.
 
 Comparte tus trabajos con el profesor. No olvides hacer públicos los montajes de TinkerCAD (si no sabes, mira [este vídeo](https://www.youtube.com/watch?v=47XXiyLPOPc)).
+
 ---
 
 ## MATERIALES DE CONSTRUCCIÓN
-Realiza las siguientes [actividades sobre materiales de construcción](Materiales de construcción/readme.md).
+Realiza las siguientes [actividades sobre materiales de construcción](Construcción/readme.md).
