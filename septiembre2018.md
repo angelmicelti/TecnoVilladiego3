@@ -26,7 +26,7 @@ Haz las siguientes prácticas de electricidad en tu cuaderno
 
 ---
 
-## [MECÁNICA](Mecánica/readme.md)
+## MECÁNICA
 Resuelve los siguientes boletines en tu cuaderno:
 - [Boletín palancas 1](Mecánica/boletin_palancas(I).pdf)
 - [Boletín palancas 2](Mecánica/boletin_palancas(II).pdf)
@@ -69,7 +69,7 @@ Descarga los boletines con las imágenes en PDF:
 
 ---
 
-## [DISEÑO CON QCAD](QCAD/qcad.md)
+## DISEÑO CON QCAD
 Dibuja las piezas que aparecen en [este enlace](QCAD/qcad.md).
 
 Cada pieza debe aparecer en **una capa** y la información del dibujo **en otro capa diferente**.
@@ -78,8 +78,8 @@ Una vez dibujadas las piezas, súbelas a una carpeta de Google Drive que se llam
 
 ---
 
-## [Publicando información en Internet](Internet/internet.md)
-Realiza un póster con la herramienta [Canva](https://www.canva.com/)
+## PUBLICANDO INFORMACIÓN EN INTERNET
+Realiza un póster sobre el **mundial de fútbol** con la herramienta [Canva](https://www.canva.com/)
 
 ---
 
