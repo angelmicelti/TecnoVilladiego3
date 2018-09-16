@@ -14,9 +14,10 @@
 - [Transmisión por piñón-cadena](pinoncad.md)
 
 ![](img/FichaTransmisiones.png)
+
 ## TRANSFORMACIÓN DEL MOVIMIENTO
 
 - [Piñón-cremallera](pinoncrema.md)
-- Husillo
+- [Tornillo-tuerca](tornillotuerca.md)
 - [Biela-manivela](bielamanivela.md)
-- Cigüeñal
+- [Cigüeñal](ciguenal.md)
