@@ -16,9 +16,9 @@ de Peñaflor, Sevilla
 
 ## Bloque 4: Estructuras y mecanismos: máquinas y sistemas
 
-### * [MECÁNICA](4EstruMeca/Mecánica/readme.md)
+### [MECÁNICA:](4EstruMeca/Mecánica/readme.md)
 
-### * ELECTRICIDAD
+### ELECTRICIDAD:
 
 <h4 align="center">
 
@@ -37,7 +37,6 @@ de Peñaflor, Sevilla
 </h3>
 
 
-
 ## Bloque 6: Tecnologías de la Información y la Comunicación
 
 <h3 align="center">
@@ -54,11 +53,5 @@ de Peñaflor, Sevilla
 </h2>
 
 ***
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk4MjA1MTFdfQ==
--->
----
 
 [MATERIAL PARA RECUPERAR EL ÁMBITO PRÁCTICO (SEPTIEMBRE 2018)](septiembre2018.md)
