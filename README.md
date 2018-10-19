@@ -22,7 +22,7 @@ de Peñaflor, Sevilla
 
 <h4 align="center">
 
-[Prácticas de electricidad con Crocodile Technology](4EstruMeca/Electricidad/practicas.md)
+[Prácticas de electricidad con Crocodile Technology](/4EstruMeca/Electricidad/practicas.md)
 
 </h4>
 
