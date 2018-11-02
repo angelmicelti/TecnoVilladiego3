@@ -2,28 +2,33 @@
 
 ## CURSO 2018-2019
 
-Para recuperar la materia de Ámbito Práctico tendrás que realizar satisfactoriamente unos trabajos (50% dde la nota) y superar una prueba escrita (50% de la nota) en el mes de septiembre.
+Para recuperar la materia de Ámbito Práctico tendrás que realizar satisfactoriamente unos trabajos (50% dde la nota) y realizar una prueba escrita (50% de la nota).
+Las fechas establecidas a tal efecto para las tres evaluaciones son las siguientes:
+- Primera evaluación: jueves, 30 de noviembre de 2018, 3ª hora.
+- Segunda evaluación: jueves, 14 de marzo de 2019, 3ª hora.
+- Tercera evaluación: jueves, 23 de mayo de 2019, 3ª hora.
+
 
 Tendrás que entregar tu cuaderno con los ejercicios que aquí se proponen resueltos, y **con los enunciados copiados**.
 
 Hay otros ejercicios que se hacen directamente en la web, y que deben ser entregados en Google Drive.
 
-Tienes una copia de todo esto en Google Classroom. Ingresa en la clase utilizando el código: **hzoldv**
+
 
 ---
 
 ## ELECTRICIDAD
 Resuelve los siguientes boletines en tu cuaderno:
 
-- [Boletín de ejercicios E1](4Estrumeca/Electricidad/boletin1.pdf)
-- [Boletín de ejercicios E5](4Estrumeca/Electricidad/boletin5.pdf)
-- [Boletín de ejercicios E6](4Estrumeca/Electricidad/boletin6.pdf)
-- [Boletín de ejercicios E7](4Estrumeca/Electricidad/boletin7.pdf)
-- [Boletín de ejercicios E8](4Estrumeca/Electricidad/boletin8.pdf)
+-   [Boletín de ejercicios E1](/4Estrumeca/Electricidad/boletin1.pdf)
+-   [Boletín de ejercicios E5](/4Estrumeca/Electricidad/boletin5.pdf)
+-   [Boletín de ejercicios E6](/4Estrumeca/Electricidad/boletin6.pdf)
+-   [Boletín de ejercicios E7](/4Estrumeca/Electricidad/boletin7.pdf)
+-   [Boletín de ejercicios E8](/4Estrumeca/Electricidad/boletin8.pdf)
 
 Haz las siguientes prácticas de electricidad en tu cuaderno
 
-- [Prácticas de electricidad con Crocodile Technology](4Estrumeca/Electricidad/practicas.md)
+-   [Prácticas de electricidad con Crocodile Technology](4Estrumeca/Electricidad/practicas.md)
 
 ---
 
