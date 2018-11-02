@@ -20,6 +20,8 @@ Hay otros ejercicios que se hacen directamente en la web, y que deben ser entreg
 ## ELECTRICIDAD
 Resuelve los siguientes boletines en tu cuaderno:
 
+[Boletín de ejercicio E1](4EstruMeca\Electricidad\boletin1.pdf)
+
 -   [Boletín de ejercicios E1](/4Estrumeca/Electricidad/boletin1.pdf)
 -   [Boletín de ejercicios E5](/4Estrumeca/Electricidad/boletin5.pdf)
 -   [Boletín de ejercicios E6](/4Estrumeca/Electricidad/boletin6.pdf)
