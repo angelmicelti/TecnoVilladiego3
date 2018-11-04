@@ -16,7 +16,7 @@ de Peñaflor, Sevilla
 
 ## Bloque 4: Estructuras y mecanismos: máquinas y sistemas
 
-### [MECÁNICA:](4EstruMeca/Mecánica/readme.md)
+### [MECÁNICA:](EstruMeca/Mecánica/readme.md)
 
 ### ELECTRICIDAD:
 
@@ -54,4 +54,4 @@ de Peñaflor, Sevilla
 
 ***
 
-[MATERIAL PARA RECUPERAR EL ÁMBITO PRÁCTICO (CURSO 201819)](Recupera3/apr3.md)
+[MATERIAL PARA RECUPERAR EL ÁMBITO PRÁCTICO (CURSO 201819)](Recupera3/Recuperaapr3.md)
