@@ -30,7 +30,7 @@ Resuelve los siguientes boletines en tu cuaderno:
 
 Haz las siguientes prácticas de electricidad en tu cuaderno
 
--   [Prácticas de electricidad con Crocodile Technology](4Estrumeca/Electricidad/practicas.md)
+-   [Prácticas de electricidad con Crocodile Technology](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Electricidad/practicas.md)
 
 ---
 
@@ -44,8 +44,8 @@ Resuelve los siguientes boletines en tu cuaderno:
 - [Boletín de transmisión por engranajes](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_transmision_por_engranajes.pdf)
 
 Tienes las siguientes ayudas:
-- [Boletín 0 de palancas](4Estrumeca/Mecánica/boletin_palancas(0).pdf)
-- [Boletín 0 de transmisiones](4Estrumeca/Mecánica/boletin_transmisiones(0).pdf)
+- [Boletín 0 de palancas](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_palancas(0).pdf)
+- [Boletín 0 de transmisiones](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_transmisiones(0).pdf)
 
 ---
 
