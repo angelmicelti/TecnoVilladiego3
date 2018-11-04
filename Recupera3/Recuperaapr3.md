@@ -26,7 +26,7 @@ Resuelve los siguientes boletines en tu cuaderno:
 -   [Boletín de ejercicios E5](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin5.pdf)
 -   [Boletín de ejercicios E6](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin6.pdf)
 -   [Boletín de ejercicios E7](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin7.pdf)
--   [Boletín de ejercicios E8](https://github.com/angelmicelti/TecnoVilladiego3/4EstruMeca/Electricidad/boletin8.pdf)
+-   [Boletín de ejercicios E8](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin8.pdf)
 
 Haz las siguientes prácticas de electricidad en tu cuaderno
 
@@ -53,32 +53,32 @@ Tienes las siguientes ayudas:
 
 Haz estas figuras con Sketchup y compártelas con tu profesor para que las pueda evaluar. Lo mejor para ello es que crees una carpeta compartida en Google Drive
 
-[Figura 1.1.](2Expresion/Sketchup/Figura1Eval1.1.stl)
+[Figura 1.1.](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/Figura1Eval1.1.stl)
 
-[Figura 1.2.](2Expresion/Sketchup/Figura1Eval1.2.stl)
+[Figura 1.2.](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/Figura1Eval1.2.stl)
 
-[Figura 1.3.](2Expresion/Sketchup/Figura1Eval1.3.stl)
+[Figura 1.3.](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/Figura1Eval1.3.stl)
 
-[Figura 1.4.](2Expresion/Sketchup/Figura1Eval1.4.stl)
+[Figura 1.4.](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/Figura1Eval1.4.stl)
 
-[Figura 1.5.](2Expresion/Sketchup/Figura1Eval1.5.stl)
+[Figura 1.5.](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/Figura1Eval1.5.stl)
 
-[Figura 2.1.](2Expresion/Sketchup/Figura1Eval2.1.stl)
+[Figura 2.1.](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/Figura1Eval2.1.stl)
 
-[Figura 2.2.](2Expresion/Sketchup/Figura1Eval2.2.stl)
+[Figura 2.2.](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/Figura1Eval2.2.stl)
 
-[Figura 2.3.](2Expresion/Sketchup/Figura1Eval2.3.stl)
+[Figura 2.3.](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/Figura1Eval2.3.stl)
 
-[Figura 2.4.](2Expresion/Sketchup/Figura1Eval2.4.stl)
+[Figura 2.4.](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/Figura1Eval2.4.stl)
 
 Descarga los boletines con las imágenes en PDF:
-- [boletín 1](2Expresion/Sketchup/boletin1Eval1.pdf)
-- [boletín 2](2Expresion/Sketchup/boletin1Eval2.pdf)
+- [boletín 1](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/boletin1Eval1.pdf)
+- [boletín 2](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/boletin1Eval2.pdf)
 
 ---
 
 ## DISEÑO CON QCAD
-Dibuja las piezas que aparecen en [este enlace](2Expresion/QCAD/qcad.md).
+Dibuja las piezas que aparecen en [este enlace](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/QCAD/qcad.md).
 
 Cada pieza debe aparecer en **una capa** y la información del dibujo **en otro capa diferente**.
 
@@ -106,4 +106,4 @@ Comparte tus trabajos con el profesor. No olvides hacer públicos los montajes d
 ---
 
 ## MATERIALES DE CONSTRUCCIÓN
-Realiza las siguientes [actividades sobre materiales de construcción](Construcción/readme.md).
+Realiza las siguientes [actividades sobre materiales de construcción](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/3Materiales/Construcción/readme.md).
