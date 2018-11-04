@@ -18,9 +18,7 @@ Hay otros ejercicios que se hacen directamente en la web, y que deben ser entreg
 ---
 
 ## ELECTRICIDAD
-Resuelve los siguientes boletines en tu cuaderno:
-
-[Boletín de ejercicio E1](4EstruMeca/Electricidad/boletin1.pdf)
+1) Resuelve los siguientes boletines de electricidad en tu cuaderno:
 
 -   [Boletín de ejercicios E1](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin1.pdf)
 -   [Boletín de ejercicios E5](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin5.pdf)
@@ -28,7 +26,7 @@ Resuelve los siguientes boletines en tu cuaderno:
 -   [Boletín de ejercicios E7](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin7.pdf)
 -   [Boletín de ejercicios E8](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin8.pdf)
 
-Haz las siguientes prácticas de electricidad en tu cuaderno
+2) Haz las siguientes prácticas de electricidad en tu cuaderno
 
 -   [Prácticas de electricidad con Crocodile Technology](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Electricidad/practicas.md)
 
