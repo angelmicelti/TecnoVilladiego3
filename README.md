@@ -54,4 +54,4 @@ de Peñaflor, Sevilla
 
 ***
 
-[MATERIAL PARA RECUPERAR EL ÁMBITO PRÁCTICO (CURSO 201819)](Recupera3/Recuperaapr3.md)
+[MATERIAL PARA RECUPERAR EL ÁMBITO PRÁCTICO (CURSO 2018-19)](Recupera3/Recuperaapr3.md)
