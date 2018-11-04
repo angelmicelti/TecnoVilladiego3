@@ -2,7 +2,7 @@
 
 ## CURSO 2018-2019
 
-Para recuperar la materia de Ámbito Práctico tendrás que realizar satisfactoriamente unos trabajos (50% dde la nota) y realizar una prueba escrita (50% de la nota).
+Para recuperar la materia de Ámbito Práctico tendrás que realizar satisfactoriamente unos trabajos (50% de la nota) y realizar una prueba escrita (50% de la nota).
 Las fechas establecidas a tal efecto para las tres evaluaciones son las siguientes:
 - Primera evaluación: jueves, 30 de noviembre de 2018, 3ª hora.
 - Segunda evaluación: jueves, 14 de marzo de 2019, 3ª hora.
@@ -22,11 +22,11 @@ Resuelve los siguientes boletines en tu cuaderno:
 
 [Boletín de ejercicio E1](4EstruMeca/Electricidad/boletin1.pdf)
 
--   [Boletín de ejercicios E1](/4Estrumeca/Electricidad/boletin1.pdf)
--   [Boletín de ejercicios E5](/4Estrumeca/Electricidad/boletin5.pdf)
--   [Boletín de ejercicios E6](/4Estrumeca/Electricidad/boletin6.pdf)
--   [Boletín de ejercicios E7](/4Estrumeca/Electricidad/boletin7.pdf)
--   [Boletín de ejercicios E8](/4Estrumeca/Electricidad/boletin8.pdf)
+-   [Boletín de ejercicios E1](//4Estrumeca/Electricidad/boletin1.pdf)
+-   [Boletín de ejercicios E5](//4Estrumeca/Electricidad/boletin5.pdf)
+-   [Boletín de ejercicios E6](//4Estrumeca/Electricidad/boletin6.pdf)
+-   [Boletín de ejercicios E7](//4Estrumeca/Electricidad/boletin7.pdf)
+-   [Boletín de ejercicios E8](//4Estrumeca/Electricidad/boletin8.pdf)
 
 Haz las siguientes prácticas de electricidad en tu cuaderno
 
