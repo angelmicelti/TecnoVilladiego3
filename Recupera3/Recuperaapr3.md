@@ -22,7 +22,7 @@ Resuelve los siguientes boletines en tu cuaderno:
 
 [Boletín de ejercicio E1](4EstruMeca/Electricidad/boletin1.pdf)
 
--   [Boletín de ejercicios E1](//4Estrumeca/Electricidad/boletin1.pdf)
+-   [Boletín de ejercicios E1](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin1.pdf)
 -   [Boletín de ejercicios E5](//4Estrumeca/Electricidad/boletin5.pdf)
 -   [Boletín de ejercicios E6](//4Estrumeca/Electricidad/boletin6.pdf)
 -   [Boletín de ejercicios E7](//4Estrumeca/Electricidad/boletin7.pdf)
