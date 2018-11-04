@@ -24,9 +24,9 @@ Resuelve los siguientes boletines en tu cuaderno:
 
 -   [Boletín de ejercicios E1](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin1.pdf)
 -   [Boletín de ejercicios E5](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin5.pdf)
--   [Boletín de ejercicios E6](4Estrumeca/Electricidad/boletin6.pdf)
--   [Boletín de ejercicios E7](4Estrumeca/Electricidad/boletin7.pdf)
--   [Boletín de ejercicios E8](4Estrumeca/Electricidad/boletin8.pdf)
+-   [Boletín de ejercicios E6](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin6.pdf)
+-   [Boletín de ejercicios E7](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin7.pdf)
+-   [Boletín de ejercicios E8](https://github.com/angelmicelti/TecnoVilladiego3/4EstruMeca/Electricidad/boletin8.pdf)
 
 Haz las siguientes prácticas de electricidad en tu cuaderno
 
