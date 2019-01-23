@@ -42,8 +42,8 @@ Resuelve los siguientes boletines en tu cuaderno:
 - [Boletín de transmisión por engranajes](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_transmision_por_engranajes.pdf)
 
 Tienes las siguientes ayudas:
-- [Boletín 0 de palancas](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_palancas(0).pdf)
-- [Boletín 0 de transmisiones](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_transmisiones(0).pdf)
+- [Boletín 0 de palancas](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_palancas(0).pdf)
+- [Boletín 0 de transmisiones](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_transmisiones(0).pdf)
 
 ---
 
