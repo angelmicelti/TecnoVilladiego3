@@ -49,7 +49,7 @@ Tienes las siguientes ayudas:
 
 ## DISEÑO 3D CON SKETCHUP
 
-Haz estas figuras con Sketchup y compártelas con tu profesor para que las pueda evaluar. Lo mejor para ello es que crees una carpeta compartida en Google Drive
+Haz estas figuras con [Sketchup](https://my.sketchup.com/app) y compártelas con tu profesor para que las pueda evaluar. Lo mejor para ello es que crees una carpeta compartida en Google Drive (habiéndolas descargado previamente) o compartiendo tus figuras de Sketchup on-line.
 
 [Figura 1.1.](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/Sketchup/Figura1Eval1.1.stl)
 
@@ -76,7 +76,7 @@ Descarga los boletines con las imágenes en PDF:
 ---
 
 ## DISEÑO CON QCAD
-Dibuja las piezas que aparecen en [este enlace](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/QCAD/qcad.md).
+Dibuja las piezas que aparecen en [este enlace](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/2Expresion/QCAD/readme.md).
 
 Cada pieza debe aparecer en **una capa** y la información del dibujo **en otro capa diferente**.
 
