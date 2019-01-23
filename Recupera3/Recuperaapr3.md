@@ -5,7 +5,7 @@
 Para recuperar la materia de Ámbito Práctico tendrás que realizar satisfactoriamente unos trabajos (50% de la nota) y realizar una prueba escrita (50% de la nota).
 Las fechas establecidas a tal efecto para las tres evaluaciones son las siguientes:
 - Primera evaluación: jueves, 30 de noviembre de 2018, 3ª hora.
-- Segunda evaluación: jueves, 14 de marzo de 2019, 3ª hora.
+- Segunda evaluación: jueves, 7 de marzo de 2019, 3ª hora.
 - Tercera evaluación: jueves, 23 de mayo de 2019, 3ª hora.
 
 
@@ -20,8 +20,8 @@ Hay otros ejercicios que se hacen directamente en la web, y que deben ser entreg
 ## ELECTRICIDAD
 1) Resuelve los siguientes boletines de electricidad en tu cuaderno:
 
--   [Boletín de ejercicios E1](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin1.pdf)
--   [Boletín de ejercicios E5](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin5.pdf)
+-   [Boletín de ejercicios E1](boletin1.pdf)
+-   [Boletín de ejercicios E5](boletin5.pdf)
 -   [Boletín de ejercicios E6](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin6.pdf)
 -   [Boletín de ejercicios E7](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin7.pdf)
 -   [Boletín de ejercicios E8](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4EstruMeca/Electricidad/boletin8.pdf)
