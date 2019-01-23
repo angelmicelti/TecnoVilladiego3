@@ -34,12 +34,12 @@ Hay otros ejercicios que se hacen directamente en la web, y que deben ser entreg
 
 ## MECÁNICA
 Resuelve los siguientes boletines en tu cuaderno:
-- [Boletín palancas 1](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_palancas(I).pdf)
-- [Boletín palancas 2](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_palancas(II).pdf)
-- [Boletín plano inclinado](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_plano_inclinado.pdf)
-- [Boletín torno](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_torno.pdf)
-- [Boletín de transmisión por poleas](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_transmision_por_poleas.pdf)
-- [Boletín de transmisión por engranajes](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_transmision_por_engranajes.pdf)
+- [Boletín palancas 1](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_palancas(I).pdf)
+- [Boletín palancas 2](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_palancas(II).pdf)
+- [Boletín plano inclinado](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_plano_inclinado.pdf)
+- [Boletín torno](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_torno.pdf)
+- [Boletín de transmisión por poleas](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_transmision_por_poleas.pdf)
+- [Boletín de transmisión por engranajes](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_transmision_por_engranajes.pdf)
 
 Tienes las siguientes ayudas:
 - [Boletín 0 de palancas](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecánica/boletin_palancas(0).pdf)
