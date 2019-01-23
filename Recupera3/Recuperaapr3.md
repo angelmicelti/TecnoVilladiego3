@@ -34,16 +34,16 @@ Hay otros ejercicios que se hacen directamente en la web, y que deben ser entreg
 
 ## MECÁNICA
 Resuelve los siguientes boletines en tu cuaderno:
-- [Boletín palancas 1](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_palancas(I).pdf)
-- [Boletín palancas 2](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_palancas(II).pdf)
-- [Boletín plano inclinado](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_plano_inclinado.pdf)
-- [Boletín torno](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_torno.pdf)
-- [Boletín de transmisión por poleas](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_transmision_por_poleas.pdf)
-- [Boletín de transmisión por engranajes](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_transmision_por_engranajes.pdf)
+- [Boletín palancas 1](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/palancas1.pdf)
+- [Boletín palancas 2](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/palancas2.pdf)
+- [Boletín plano inclinado](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/planoinclinado.pdf)
+- [Boletín torno](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/torno.pdf)
+- [Boletín de transmisión por poleas](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/transpoleas.pdf)
+- [Boletín de transmisión por engranajes](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/transmengranajes.pdf)
 
 Tienes las siguientes ayudas:
-- [Boletín 0 de palancas](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_palancas(0).pdf)
-- [Boletín 0 de transmisiones](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/boletin_transmisiones(0).pdf)
+- [Boletín 0 de palancas](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/palancas0.pdf)
+- [Boletín 0 de transmisiones](https://github.com/angelmicelti/TecnoVilladiego3/blob/master/4Estrumeca/Mecanica/transmisiones0.pdf)
 
 ---
 
