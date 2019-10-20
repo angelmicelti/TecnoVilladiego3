@@ -7,6 +7,5 @@
 
 ## Proyectos construidos
 
-[Puerta enrollable](puertaenrollable.md)
-
-[CucoClock](cucoclock.md)
+- [Puerta enrollable](puertaenrollable.md)
+- [CucoClock](cucoclock.md)
