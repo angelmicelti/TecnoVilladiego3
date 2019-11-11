@@ -5,7 +5,7 @@
 del IES Virgen de Villadiego,
 de Peñaflor, Sevilla
 
-![](imágenes/logo_fondo_transparente200x300.png)
+![logo](imágenes/logo_fondo_transparente200x300.png)
 </h3>
 
 ## [Bloque 1: Proceso de resolución de problemas tecnológicos](1Proceso/readme.md)
@@ -22,7 +22,7 @@ de Peñaflor, Sevilla
 
 <h4 align="center">
 
-[Prácticas de electricidad con Crocodile Technology](4EstruMeca/Electricidad/practicas.md)
+[Prácticas de electricidad con Crocodile Technology](/4EstruMeca/Electricidad/practicas.md)
 
 </h4>
 
@@ -30,7 +30,7 @@ de Peñaflor, Sevilla
 
 <h3 align="center">
 
-[Arduinoblocks](5ProgSisCont/ArduinoBlocks/readme.md)
+[Arduinoblocks](/5ProgSisCont/ArduinoBlocks/readme.md)
 
 [Scratch](http://scratch.mit.edu)
 
@@ -41,17 +41,15 @@ de Peñaflor, Sevilla
 
 <h3 align="center">
 
-[Publicando información en Internet](6TIC/internet.md)
+[Publicando información en Internet](/6TIC/internet.md)
 
 </h3>
 
 ***
 <h2 align="center">
 
-[PROYECTOS](Proyectos/readme.md)
+[PROYECTOS](/Proyectos/readme.md)
 
 </h2>
 
 ***
-
-[MATERIAL PARA RECUPERAR EL ÁMBITO PRÁCTICO (CURSO 2018-19)](Recupera3/Recuperaapr3.md)
