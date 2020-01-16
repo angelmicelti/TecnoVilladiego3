@@ -1,21 +1,19 @@
 # Piezas del Proyecto motorreductor
 
-![](MRPieza1.png)
+![](MRPieza1.jpg)
 
-![](MRPieza2.png)
+![](MRPieza2.jpg)
 
-![](MRPieza3.png)
+![](MRPieza3.jpg)
 
-![](MRPieza4.png)
+![](MRPieza4.jpg)
 
-![](MRPieza5.png)
+![](MRPieza5.jpg)
 
-![](MRPieza6.png)
+![](MRPieza6.jpg)
 
-![](MRPieza7.png)
+![](MRPieza7.jpg)
 
-![](MRPieza8.png)
+![](MRPieza8.jpg)
 
-![](MRPieza9.png)
-
-![](MRPieza10.png)
+![](MRPieza9.jpg)
