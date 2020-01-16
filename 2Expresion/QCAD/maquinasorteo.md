@@ -1,21 +1,21 @@
 # Piezas del Proyecto de máquina para sorteos
 
-![](SorteoPieza1.png)
+![](SorteoPieza1.jpg)
 
-![](SorteoPieza2.png)
+![](SorteoPieza2.jpg)
 
-![](SorteoPieza3.png)
+![](SorteoPieza3.jpg)
 
-![](SorteoPieza4.png)
+![](SorteoPieza4.jpg)
 
-![](SorteoPieza5.png)
+![](SorteoPieza5.jpg)
 
-![](SorteoPieza6.png)
+![](SorteoPieza6.jpg)
 
-![](SorteoPieza7.png)
+![](SorteoPieza7.jpg)
 
-![](SorteoPieza8.png)
+![](SorteoPieza8.jpg)
 
-![](SorteoPieza9.png)
+![](SorteoPieza9.jpg)
 
-![](SorteoPieza10.png)
+![](SorteoPieza10.jpg)
