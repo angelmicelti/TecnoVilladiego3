@@ -1,22 +1,8 @@
-# Piezas del Proyecto de puerta enrollable
-## Dibujo en QCAD
+# Prácticas de QCAD
+Como dijo Galileo, "el movimiento se demuestra andando" y, como digo yo, el arte de dibujar, dibujando.  
 
-![](pieza1.png)
+Así que te dejo una serie de prácticas para que demuestres tus habilidades con QCAD.
 
-![](pieza2.png)
-
-![](pieza3.png)
-
-![](pieza4.png)
-
-![](pieza5.png)
-
-![](pieza6.png)
-
-![](pieza7.png)
-
-![](pieza8.png)
-
-![](pieza9.png)
-
-![](pieza10.png)
+### [Dibuja las piezas de un motorreductor](motorreductor.md)
+### [Dibuja las piezas de una puerta enrollable](puertaenrollable.md)
+### [Dibuja las piezas de una máquina para sorteos](maquinasorteo.md)
