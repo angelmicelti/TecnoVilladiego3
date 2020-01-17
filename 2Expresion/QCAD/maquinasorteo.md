@@ -22,8 +22,8 @@
 ## Pieza 7
 ![Pieza 7](SorteoPieza7.jpg)
 
-## Pieza 8!
-[Pieza 8](SorteoPieza8.jpg)
+## Pieza 8
+![Pieza 8](SorteoPieza8.jpg)
 
 ## Pieza 9
 ![Pieza 9](SorteoPieza9.jpg)
