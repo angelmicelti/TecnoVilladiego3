@@ -1,6 +1,8 @@
 # DISEÑO 3D CON SKETCHUP
 Accede a [Sketchup on-line](https://my.sketchup.com/app)
 
+Si tu instituto tiene Google Apps for Education instalado, puedes acceder a este enlace: [Sketchup on-line](https://edu.sketchup.com/app/?auth=goog)
+
 
 ## Figuras para la Primera Evaluación
 [Figura 1.1.](Figura1Eval1.1.stl)
