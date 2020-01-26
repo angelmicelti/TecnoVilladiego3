@@ -20,11 +20,8 @@ de Peñaflor, Sevilla
 
 ### ELECTRICIDAD:
 
-<h4 align="center">
-
 [Prácticas de electricidad con Crocodile Technology](/4EstruMeca/Electricidad/practicas.md)
 
-</h4>
 
 ## Bloque 5: Iniciación a la programación y sistemas de control
 
