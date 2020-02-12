@@ -18,7 +18,7 @@ de Peñaflor, Sevilla
 
 ### [MECÁNICA:](4EstruMeca/Mecanica/readme.md)
 
-### [ELECTRICIDAD](4EstruMeca/Electricidad/readme.md):
+### [ELECTRICIDAD](4EstruMeca/Electricidad/readme.md)
 
 
 <h3 align="center">
