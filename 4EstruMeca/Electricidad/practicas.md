@@ -2,7 +2,7 @@
 
 Proponemos a nuestro alumnado de 3º de E.S.O. la realización de unas sencillas prácticas con Crocodile Technology, para familiarizarse con el manejo de programas sencillos de simulación de situaciones físicas.
 
-Puedes descargar Crocodile Technology desde [este enlace](https://mega.nz/#!WB9DWJgY!42RwtjEhRjiRDeBIMDXtk3PYmDmsGy_arkmXCMFQyMk).
+Puedes descargar Crocodile Technology desde [este enlace](https://github.com/angelmicelti/TecnoVilladiego3/raw/master/4EstruMeca/Electricidad/Cocodrile%20Technology%206.07%5BPortable%5D.zip).
 
 Puedes ver/descargar las hojas de respuestas en estos enlaces:
 
