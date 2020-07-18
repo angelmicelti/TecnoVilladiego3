@@ -16,7 +16,7 @@ HAZ **CLIC EN CADA IMAGEN** PARA ACCEDER A LA **FICHA DE LA PRÁCTICA**.
 
 ## Práctica 1: circuito elemental. Elementos de maniobra
 
-[![](imágenes/p1.png)](p1.pdf "Haz clic para ver la guía de la práctica")
+[![](img/p1.png)](p1.pdf "Haz clic para ver la guía de la práctica")
 
 ## Práctica 2: circuito serie (I)
 [![](img/p2.png)](p2.pdf "Haz clic para ver la guía de la práctica")
