@@ -11,32 +11,32 @@ Puedes ver/descargar las hojas de respuestas en estos enlaces:
 - [Hoja 2 (anverso)](h2a.pdf)
 - [Hoja 2 (reverso)](h2r.pdf)
 
-HAZ **CLIC EN CADA IMAGEN** PARA ACCEDER A LA **FICHA DE LA PRÁCTICA**.
-[](imágenes/clic.png)
+### HAZ **CLIC EN CADA IMAGEN** PARA ACCEDER A LA **FICHA DE LA PRÁCTICA**.
+![](img/clic.jpg)
 
 ## Práctica 1: circuito elemental. Elementos de maniobra
 
-[![](imágenes/p1.png)](p1.pdf "Haz clic para ver la guía de la práctica")
+[![](img/p1.png)](p1.pdf "Haz clic para ver la guía de la práctica")
 
 ## Práctica 2: circuito serie (I)
-[![](imágenes/p2.png)](p2.pdf "Haz clic para ver la guía de la práctica")
+[![](img/p2.png)](p2.pdf "Haz clic para ver la guía de la práctica")
 
 ## Práctica 3: circuito serie (II)
-[![](imágenes/p3.png)](p3.pdf "Haz clic para ver la guía de la práctica")
+[![](img/p3.png)](p3.pdf "Haz clic para ver la guía de la práctica")
 
 ## Práctica 4: circuito paralelo
-[![](imágenes/p4.png)](p4.pdf "Haz clic para ver la guía de la práctica")
+[![](img/p4.png)](p4.pdf "Haz clic para ver la guía de la práctica")
 
 ## Práctica 5: control de componentes en un circuito paralelo
-[![](imágenes/p5.png)](p5.pdf "Haz clic para ver la guía de la práctica")
+[![](img/p5.png)](p5.pdf "Haz clic para ver la guía de la práctica")
 
 ## Práctica 6: circuito mixto paralelo-serie
-[![](imágenes/p6.png)](p6.pdf "Haz clic para ver la guía de la práctica")
+[![](img/p6.png)](p6.pdf "Haz clic para ver la guía de la práctica")
 
 ## Práctica 7: circuito mixto serie-paralelo
-[![](imágenes/p7.png)](p7.pdf "Haz clic para ver la guía de la práctica")
+[![](img/p7.png)](p7.pdf "Haz clic para ver la guía de la práctica")
 
 ## Práctica 8: luz conmutada desde dos puntos
-[![](imágenes/p8.png)](p8.pdf "Haz clic para ver la guía de la práctica")
+[![](img/p8.png)](p8.pdf "Haz clic para ver la guía de la práctica")
 
-### Haz clic en una imagen para ver la guía de dicha práctica
+### Haz clic en cada imagen para ver la guía de dicha práctica
