@@ -11,8 +11,8 @@ Puedes ver/descargar las hojas de respuestas en estos enlaces:
 - [Hoja 2 (anverso)](h2a.pdf)
 - [Hoja 2 (reverso)](h2r.pdf)
 
-HAZ **CLIC EN CADA IMAGEN** PARA ACCEDER A LA **FICHA DE LA PRÁCTICA**.
-![](img/clic.png)
+### HAZ **CLIC EN CADA IMAGEN** PARA ACCEDER A LA **FICHA DE LA PRÁCTICA**.
+![](img/clic.jpg)
 
 ## Práctica 1: circuito elemental. Elementos de maniobra
 
