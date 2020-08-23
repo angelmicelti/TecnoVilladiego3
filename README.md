@@ -41,14 +41,14 @@ de Peñaflor, Sevilla
 
 <h3 align="center">
 
-[Publicando información en Internet](/6TIC/readme.md)
+[Publicando información en Internet](6TIC/readme.md)
 
 </h3>
 
 ***
 <h2 align="center">
 
-[PROYECTOS](/Proyectos/readme.md)
+[PROYECTOS](Proyectos/readme.md)
 
 </h2>
 
