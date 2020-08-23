@@ -4,7 +4,8 @@
 MATERIALES DE USO TÉCNICO </h1>
 
 <h2 align="center">
-PLÁSTICOS
+
+[PLÁSTICOS](Plasticos/readme.md)
 
 [MATERIALES DE CONSTRUCCIÓN](Construccion/readme.md)
 
