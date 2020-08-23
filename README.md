@@ -14,7 +14,7 @@ de Peñaflor, Sevilla
 
 ## [Bloque 3: Materiales de uso técnico](3Materiales/readme.md)
 
-## Bloque 4: Estructuras y mecanismos: máquinas y sistemas
+## [Bloque 4: Estructuras y mecanismos: máquinas y sistemas](4EstruMeca/readme.md)
 
 <h3 align="center">
 
@@ -30,7 +30,7 @@ de Peñaflor, Sevilla
 
 ---
 
-## Bloque 5: Iniciación a la programación y sistemas de control
+## [Bloque 5: Iniciación a la programación y sistemas de control](5ProgSisCont/readme.md)
 
 <h3 align="center">
 
@@ -41,7 +41,7 @@ de Peñaflor, Sevilla
 </h3>
 
 
-## Bloque 6: Tecnologías de la Información y la Comunicación
+## [Bloque 6: Tecnologías de la Información y la Comunicación](6TIC/readme.md)
 
 <h3 align="center">
 
