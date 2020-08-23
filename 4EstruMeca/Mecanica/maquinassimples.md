@@ -1,1 +1,0 @@
-# MÁQUINAS SIMPLES
