@@ -1,7 +1,5 @@
 
-<h1 align="center">
-
-ELECTRICIDAD Y MECÁNICA </h1>
+<h1 align="center"> ELECTRICIDAD Y MECÁNICA </h1>
 
 [ELECTRICIDAD](Electricidad/readme.md)
 
