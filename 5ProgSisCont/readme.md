@@ -7,6 +7,6 @@
 
 ## [Programación de Arduino con ArduinoBlocks](ArduinoBlocks/readme.md)
 
-![logo de ArduinoBlocks](https://www.electan.com/images/arduinoblocks-logo.jpg)
+![logo de ArduinoBlocks](https://www.robolot.online/pluginfile.php/436/course/section/50/arduinoblocks_logo2_medium.png)
 
 [Volver a inicio](https://github.com/angelmicelti/TecnoVilladiego3)
