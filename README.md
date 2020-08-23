@@ -16,12 +16,11 @@ de Peñaflor, Sevilla
 
 ## Bloque 4: Estructuras y mecanismos: máquinas y sistemas
 
+<h3 align="center">
+
 ### [MECÁNICA](4EstruMeca/Mecanica/readme.md)
 
 ### [ELECTRICIDAD](4EstruMeca/Electricidad/readme.md)
-
-
-<h3 align="center">
 
 [Prácticas de electricidad con Crocodile Technology](/4EstruMeca/Electricidad/practicas.md)
 
