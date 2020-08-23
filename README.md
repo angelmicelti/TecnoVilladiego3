@@ -20,15 +20,12 @@ de Peñaflor, Sevilla
 
 [MECÁNICA](4EstruMeca/Mecanica/readme.md)
 
----
-
 [ELECTRICIDAD](4EstruMeca/Electricidad/readme.md)
 
 [Prácticas de electricidad con Crocodile Technology](/4EstruMeca/Electricidad/practicas.md)
 
 </h3>
 
----
 
 ## [Bloque 5: Iniciación a la programación y sistemas de control](5ProgSisCont/readme.md)
 
