@@ -22,7 +22,7 @@ de Peñaflor, Sevilla
 
 [ELECTRICIDAD](4EstruMeca/Electricidad/readme.md)
 
-[Prácticas de electricidad con Crocodile Technology](/4EstruMeca/Electricidad/practicas.md)
+[Prácticas de electricidad con Crocodile Technology](4EstruMeca/Electricidad/practicas.md)
 
 </h3>
 
@@ -31,12 +31,11 @@ de Peñaflor, Sevilla
 
 <h3 align="center">
 
-[Arduinoblocks](/5ProgSisCont/ArduinoBlocks/readme.md)
+[Programación con Scratch](5ProgSisCont/Scratch/readme.md)
 
-[Scratch](http://scratch.mit.edu)
+[Programa Arduino con Arduinoblocks](5ProgSisCont/ArduinoBlocks/readme.md)
 
 </h3>
-
 
 ## [Bloque 6: Tecnologías de la Información y la Comunicación](6TIC/readme.md)
 
