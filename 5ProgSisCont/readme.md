@@ -5,6 +5,4 @@
 
 ## [Programación de Arduino con ArduinoBlocks](ArduinoBlocks/readme.md)
 
-
-
 [Volver a inicio](https://github.com/angelmicelti/TecnoVilladiego3)
