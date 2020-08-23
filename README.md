@@ -5,7 +5,7 @@
 del IES Virgen de Villadiego,
 de Peñaflor, Sevilla
 
-![logo](imágenes/logo_fondo_transparente200x300.png)
+![logo](img/logo_fondo_transparente200x300.png)
 </h3>
 
 ## [Bloque 1: Proceso de resolución de problemas tecnológicos](1Proceso/readme.md)
