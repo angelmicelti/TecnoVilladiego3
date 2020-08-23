@@ -3,10 +3,10 @@
 
 ELECTRICIDAD Y MECÁNICA </h1>
 
-<h2 align="center>
+<h2 align="center">
 [ELECTRICIDAD](Electricidad/readme.md)</h2>  
 
-<h2 align="center>
+<h2 align="center">
 [MECÁNICA](Mecanica/readme.md)</h2>  
 
 
