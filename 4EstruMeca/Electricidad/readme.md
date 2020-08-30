@@ -1,6 +1,6 @@
 
 # Circuitos en clemas
-Mira cómo se pueden montar circuitos en clemas. Pulsa [este enlace](circuclemas.md).
+Mira cómo se pueden montar **circuitos en clemas**. Pulsa [este enlace](circuclemas.md).
 
 # Circuitos de interés
 
