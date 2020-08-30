@@ -6,14 +6,14 @@ Dejo por aquí algún ejemplo:
 
 ## Circuito elemental en clema
 
-![Circuito serie](Circuito1.png "Circuito elemental") 
+![Circuito serie](img/Circuito1.png "Circuito elemental") 
 
 ### Montaje en clema:
-![Circuito serie en clema](Circuito1Clema.jpg "Circuito elemental en clema") 
+![Circuito serie en clema](img/Circuito1Clema.jpg "Circuito elemental en clema") 
 
 ## Circuito paralelo en clema
 
-![Circuito paralelo](Circuito2.png "Circuito paralelo") 
+![Circuito paralelo](img/Circuito2.png "Circuito paralelo") 
 
 ### Montaje en clema:
-![Circuito paralelo men clema](Circuito2Clema.jpg "Circuito paralelo en clema")
+![Circuito paralelo en clema](img/Circuito2Clema.jpg "Circuito paralelo en clema")
