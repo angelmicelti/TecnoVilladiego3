@@ -8,6 +8,6 @@ De una forma imaginativa podemos crear un semáforo con varios restos de madera,
 
 Más adelante, en el próximo curso, aprenderemos a imprimirlo en 3D. ¿A que mola?
 
-El resultado lo tienes en esta imagen.  
+El resultado lo tienes en esta imagen. (TO-DO)  
 
 Puedes ver el proceso completo (proyecto), en este enlace. (TO-DO)
