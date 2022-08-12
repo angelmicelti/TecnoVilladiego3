@@ -54,4 +54,4 @@ de Peñaflor, Sevilla
 
 ***
 
-![Programación de contenidos](img/SecuenciacionContenidos3ESO.jpg)
+
